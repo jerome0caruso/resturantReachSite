@@ -1,7 +1,7 @@
 {
   "name": "courserapp",
   "version": "0.1.0",
-  "homepage": "https://github.com/jerome0caruso/resturantReachSite",
+  "homepage": "https://github.com/jerome0caruso/resturantReactSite",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

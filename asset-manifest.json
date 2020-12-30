@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/jerome0caruso/resturantReachSite/static/css/main.be0b3f75.chunk.css",
-    "main.js": "/jerome0caruso/resturantReachSite/static/js/main.a93d82f6.chunk.js",
-    "main.js.map": "/jerome0caruso/resturantReachSite/static/js/main.a93d82f6.chunk.js.map",
-    "runtime-main.js": "/jerome0caruso/resturantReachSite/static/js/runtime-main.d16a719f.js",
-    "runtime-main.js.map": "/jerome0caruso/resturantReachSite/static/js/runtime-main.d16a719f.js.map",
-    "static/css/2.be08b330.chunk.css": "/jerome0caruso/resturantReachSite/static/css/2.be08b330.chunk.css",
-    "static/js/2.016ad94d.chunk.js": "/jerome0caruso/resturantReachSite/static/js/2.016ad94d.chunk.js",
-    "static/js/2.016ad94d.chunk.js.map": "/jerome0caruso/resturantReachSite/static/js/2.016ad94d.chunk.js.map",
-    "index.html": "/jerome0caruso/resturantReachSite/index.html",
-    "precache-manifest.dc2242d7847bf359432ada9e2fa7c18d.js": "/jerome0caruso/resturantReachSite/precache-manifest.dc2242d7847bf359432ada9e2fa7c18d.js",
-    "service-worker.js": "/jerome0caruso/resturantReachSite/service-worker.js",
-    "static/css/2.be08b330.chunk.css.map": "/jerome0caruso/resturantReachSite/static/css/2.be08b330.chunk.css.map",
-    "static/css/main.be0b3f75.chunk.css.map": "/jerome0caruso/resturantReachSite/static/css/main.be0b3f75.chunk.css.map",
-    "static/js/2.016ad94d.chunk.js.LICENSE.txt": "/jerome0caruso/resturantReachSite/static/js/2.016ad94d.chunk.js.LICENSE.txt",
-    "static/media/font-awesome.min.css": "/jerome0caruso/resturantReachSite/static/media/fontawesome-webfont.fee66e71.woff"
+    "main.css": "/jerome0caruso/resturantReactSite/static/css/main.be0b3f75.chunk.css",
+    "main.js": "/jerome0caruso/resturantReactSite/static/js/main.f72eab60.chunk.js",
+    "main.js.map": "/jerome0caruso/resturantReactSite/static/js/main.f72eab60.chunk.js.map",
+    "runtime-main.js": "/jerome0caruso/resturantReactSite/static/js/runtime-main.02c70c45.js",
+    "runtime-main.js.map": "/jerome0caruso/resturantReactSite/static/js/runtime-main.02c70c45.js.map",
+    "static/css/2.129b9369.chunk.css": "/jerome0caruso/resturantReactSite/static/css/2.129b9369.chunk.css",
+    "static/js/2.016ad94d.chunk.js": "/jerome0caruso/resturantReactSite/static/js/2.016ad94d.chunk.js",
+    "static/js/2.016ad94d.chunk.js.map": "/jerome0caruso/resturantReactSite/static/js/2.016ad94d.chunk.js.map",
+    "index.html": "/jerome0caruso/resturantReactSite/index.html",
+    "precache-manifest.8a830836477be6490a667f0a5a9d3ae7.js": "/jerome0caruso/resturantReactSite/precache-manifest.8a830836477be6490a667f0a5a9d3ae7.js",
+    "service-worker.js": "/jerome0caruso/resturantReactSite/service-worker.js",
+    "static/css/2.129b9369.chunk.css.map": "/jerome0caruso/resturantReactSite/static/css/2.129b9369.chunk.css.map",
+    "static/css/main.be0b3f75.chunk.css.map": "/jerome0caruso/resturantReactSite/static/css/main.be0b3f75.chunk.css.map",
+    "static/js/2.016ad94d.chunk.js.LICENSE.txt": "/jerome0caruso/resturantReactSite/static/js/2.016ad94d.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/jerome0caruso/resturantReactSite/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d16a719f.js",
-    "static/css/2.be08b330.chunk.css",
+    "static/js/runtime-main.02c70c45.js",
+    "static/css/2.129b9369.chunk.css",
     "static/js/2.016ad94d.chunk.js",
     "static/css/main.be0b3f75.chunk.css",
-    "static/js/main.a93d82f6.chunk.js"
+    "static/js/main.f72eab60.chunk.js"
   ]
 }
